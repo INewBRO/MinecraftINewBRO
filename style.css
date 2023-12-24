@@ -1,0 +1,72 @@
+main h1 {
+    text-align: center; color: gray; background-color: lightgray;
+}
+
+main h2 {
+    text-align: center; color:gray; background-color: lightgray;
+}
+
+body {
+    background-color: gray;
+}
+
+header {
+    background-color:darkgray; padding: 10px;
+}
+
+header a {
+    text-decoration: none; border: black solid 1px; border-radius: 10px; font-size: 15px;
+    padding: 3px; margin: 3px; background-color: darkgray;
+}
+
+p {
+    font-size: 20px; color: darkgray;
+}
+
+h1 img {
+    height: 30px; width: 30px;
+}
+
+table {
+    border-collapse: collapse; margin-left: 50px;
+}
+
+td {
+    border: 1px solid blue; text-align: center; padding: 2px;
+}
+
+tr {
+    border: 1px solid blue;
+}
+
+#go {
+    margin-left: 3px;
+}
+
+#pickaxe {
+    background-color: darkcyan; color: turquoise;
+}
+
+.ore {
+    background-color: darkcyan; color: wheat;
+}
+
+.yes {
+    background-color: green; color: springgreen;
+}
+
+.no {
+    background-color: darkred; color: orangered;
+}
+
+footer {
+    background-color: darkgray;
+}
+
+footer p {
+    font-size: 15px; color: gray;
+}
+
+header img {
+    width: 30px; height: 30px;
+}
